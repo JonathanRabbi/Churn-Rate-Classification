@@ -1,0 +1,11 @@
+
+Issue when having fitted the model, but the np array no longer works.
+
+""" Due to dataset manipulation, the dataframe is no longer in numpy format. Hence convert to below"""
+# X_train
+X_train_array = X_train.to_numpy()
+X_train_new = np.array(X_train_array, order='C')
+
+# X_test
+X_test_array = X_test.to_numpy()
+X_test_new = np.array(X_test_array, order='C')
