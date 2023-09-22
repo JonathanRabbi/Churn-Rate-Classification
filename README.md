@@ -1,6 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # Churn-Rate-Classification
+=======
+# Customer Churn Rate Classification/Clustering
+
+
+![image](https://github.com/JonathanRabbi/Credit-Card-Attrition/assets/135423708/6c25eeb3-20bc-431e-a3ca-9673e5b088b3)
+
+>>>>>>> afb2d7d (Update README.md)
 
 <h2 id="table-of-contents">:book:Table of Contents</h2>
 <details open="open">
