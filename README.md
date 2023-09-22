@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # Churn-Rate-Classification
 =======
@@ -134,3 +135,5 @@ This project took place between 18/09/2023-22/09/2023
 
 
 >>>>>>> 0ee7e2a (Update README.md)
+=======
+>>>>>>> 33dca39 (added readme)
