@@ -10,7 +10,8 @@
 <li><a href="#Requirements"> ➤ Requirements</a></li>
 <li><a href="#Dataset"> ➤ Dataset</a></li>
 <li><a href="#Exploratory-Data-Analysis"> ➤ Exploratory Data Analysis</a></li>
-<li><a href="#Classification/Cluster-Modelling"> ➤ Classification/Cluster Modelling</a></li>
+<li><a href="#Classification"> ➤ Classification</a></li>
+<li><a href="#Clustering"> ➤ Clustering</a></li>
 <li><a href="#Time-Schedule"> ➤ Time Schedule</a></li>
 </ol>
 </details>
@@ -88,6 +89,19 @@ FP = 267
 The f1-score indicated a 79% accuracy level for classifying the attrited customers
 
 ![image](https://github.com/JonathanRabbi/Credit-Card-Attrition/assets/135423708/c9a06e41-c4dc-4c07-839d-30d12be184c9)
+
+## Clustering
+### K-Means Clustering
+Find the amount of clusters by means of elbow graph. Herein either 2 or 5 clusters can be chosen.
+
+![image](https://github.com/JonathanRabbi/Credit-Card-Attrition/assets/135423708/e065b38c-5c37-4b2d-b653-645ea2307120)
+
+
+## Time Schedule
+This project took place between 18/09/2023-22/09/2023
+
+
+
 
 
 
