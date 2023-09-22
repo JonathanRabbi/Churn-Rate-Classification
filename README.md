@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-# Churn-Rate-Classification
-=======
+
 # Customer Churn Rate Classification/Clustering
 
 
@@ -119,21 +114,3 @@ After employing K-means and DBSCAN clustering methods to determine the more accu
 
 ## Time Schedule
 This project took place between 18/09/2023-22/09/2023
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> 0ee7e2a (Update README.md)
-=======
->>>>>>> 33dca39 (added readme)
