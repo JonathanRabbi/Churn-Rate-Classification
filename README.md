@@ -14,6 +14,7 @@
 <li><a href="#Exploratory-Data-Analysis"> ➤ Exploratory Data Analysis</a></li>
 <li><a href="#Classification"> ➤ Classification</a></li>
 <li><a href="#Clustering"> ➤ Clustering</a></li>
+<li><a href="#Summary-Results"> ➤ Summary Results</a></li>
 <li><a href="#Time-Schedule"> ➤ Time Schedule</a></li>
 </ol>
 </details>
@@ -80,9 +81,9 @@ After selecting RandomForest with 100 estimators, my classification model achiev
 ### Confusion Matrix
 The confusion matrix indicates that my:
 TN = 2120
-TP = 127
+TP = 267
 FN = 18
-FP = 267
+FP = 127
 
 ![image](https://github.com/JonathanRabbi/Credit-Card-Attrition/assets/135423708/b923b6a1-4981-4040-8a7d-e179e072eaba)
 
@@ -97,6 +98,16 @@ The f1-score indicated a 79% accuracy level for classifying the attrited custome
 Find the amount of clusters by means of elbow graph. Herein either 2 or 5 clusters can be chosen.
 
 ![image](https://github.com/JonathanRabbi/Credit-Card-Attrition/assets/135423708/e065b38c-5c37-4b2d-b653-645ea2307120)
+
+## Summary Results
+
+### Classification
+In employing the RandomForest classifier with 100 estimators, the model achieves an accuracy rate of approximately 79% for identifying attrited customers. However, my primary concern lies in minimizing false positives (FP) to prevent classifying existing customers as attrited. To address this, I've focused on the F1-score, which indicates a precision level of around 68%.
+
+### Clustering
+After employing K-means and DBSCAN clustering methods to determine the more accurate cluster model, the results are as follows:
+- K-means Silhouette score: ~24%
+- DBSCAN Silhouette score: ~28%
 
 
 ## Time Schedule
